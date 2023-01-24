@@ -6,8 +6,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 * Beschrijving
 * Kenmerken
-* Installatie
-* Gebruik
 * Bronnen
 * Licentie
 * Beschrijving 🗒️
@@ -27,8 +25,6 @@ bekijk wiki: https://github.com/Marwaxhello/look-and-feel-corporate-identity/wik
 <img width="498" alt="Screenshot 2023-01-24 at 14 09 21" src="https://user-images.githubusercontent.com/112861555/214301185-adb722ab-bf61-4797-b2a5-b93a021c7c48.png">
 
 
-
-Installatie 🛠️
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
